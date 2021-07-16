@@ -19,7 +19,7 @@ We want to understand how to better protect ourselves from COVID-19 by changing 
 ## Team Members
 
 - Yuen Yee Leung: I am a current 4th year microbiology student.
-- Person 2: one sentence about you!
+- Anthony Vong: I am a 4th year management student, minor in Economics.
 - Person 3: one sentence about you!
 
 ## References
