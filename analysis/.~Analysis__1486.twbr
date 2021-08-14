@@ -1494,106 +1494,6 @@
     </worksheet>
   </worksheets>
   <dashboards>
-    <dashboard name='Dashboard 2'>
-      <style />
-      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
-      <zones>
-        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
-          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='14' param='horz' w='98400' x='800' y='1000'>
-            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='7' param='horz' w='82400' x='800' y='1000'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='98000' id='5' w='82400' x='800' y='1000'>
-                <zone h='79251' id='3' name='Bar plot of Stimulants in kg and kcal' w='41200' x='800' y='10374'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='49000' id='9' name='Stimulants map' w='41200' x='42000' y='1000'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='49000' id='11' name='Scatter plot % Stimulants (kg) vs % Recovered' w='20600' x='42000' y='50000'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone h='49000' id='12' name='Scatter plot % Stimulants (kcal) vs % Recovered' w='20600' x='62600' y='50000'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='9374' id='10' name='Stimulants map' pane-specification-id='0' param='[federated.0ormw5u0zbfc0a1fv16es1cgax3s].[avg:% Recovered:qk]' w='41200' x='800' y='1000'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='9375' id='8' name='Bar plot of Stimulants in kg and kcal' pane-specification-id='0' param='[federated.0ormw5u0zbfc0a1fv16es1cgax3s].[:Measure Names]' w='41200' x='800' y='89625'>
-                  <zone-style>
-                    <format attr='border-color' value='#000000' />
-                    <format attr='border-style' value='none' />
-                    <format attr='border-width' value='0' />
-                    <format attr='margin' value='4' />
-                  </zone-style>
-                </zone>
-              </zone>
-            </zone>
-            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' fixed-size='160' h='98000' id='13' is-fixed='true' param='vert' w='16000' x='83200' y='1000'>
-              <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' h='53750' id='15' w='16000' x='83200' y='1000'>
-                <formatted-text>
-                  <run fontalignment='1' fontsize='15'>Is there a correlation between stimulant supply and COVID-19 recoveries in different countries? </run>
-                  <run fontalignment='1'>
-Through various forms of data visualization,this dashboard aims to showcase stimulant supply percentages within different countries to see whether  there is a correlation between high recovery percentages and stimulant supply.</run>
-                </formatted-text>
-                <zone-style>
-                  <format attr='border-color' value='#000000' />
-                  <format attr='border-style' value='none' />
-                  <format attr='border-width' value='0' />
-                  <format attr='margin' value='4' />
-                </zone-style>
-              </zone>
-            </zone>
-          </zone>
-          <zone-style>
-            <format attr='border-color' value='#000000' />
-            <format attr='border-style' value='none' />
-            <format attr='border-width' value='0' />
-            <format attr='margin' value='8' />
-          </zone-style>
-        </zone>
-      </zones>
-      <devicelayouts>
-        <devicelayout auto-generated='true' name='Phone'>
-          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
-          <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='2' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='1' param='vert' w='84000' x='8000' y='8000' />
-              <zone-style>
-                <format attr='border-color' value='#000000' />
-                <format attr='border-style' value='none' />
-                <format attr='border-width' value='0' />
-                <format attr='margin' value='8' />
-              </zone-style>
-            </zone>
-          </zones>
-        </devicelayout>
-      </devicelayouts>
-      <simple-id uuid='{3F0DEFBD-B329-43F9-BD20-3D5264BF762D}' />
-    </dashboard>
     <dashboard name='Izgi'>
       <style />
       <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
@@ -1707,8 +1607,106 @@ Through various forms of data visualization,this dashboard aims to showcase stim
       </devicelayouts>
       <simple-id uuid='{5E87BE10-B370-402A-96A1-A49FC5EE7AFF}' />
     </dashboard>
+    <dashboard name='YuenYee'>
+      <style />
+      <size maxheight='800' maxwidth='1000' minheight='800' minwidth='1000' />
+      <zones>
+        <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='4' w='100000' x='0' y='0'>
+          <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='86375' id='14' param='horz' w='98400' x='800' y='12625'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='86375' id='7' param='horz' w='98400' x='800' y='12625'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='86375' id='5' w='98400' x='800' y='12625'>
+                <zone h='69851' id='3' name='Bar plot of Stimulants in kg and kcal' w='49200' x='800' y='20887'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+                <zone h='43188' id='9' name='Stimulants map' w='49200' x='50000' y='12625'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+                <zone h='43187' id='11' name='Scatter plot % Stimulants (kg) vs % Recovered' w='24600' x='50000' y='55813'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+                <zone h='43187' id='12' name='Scatter plot % Stimulants (kcal) vs % Recovered' w='24600' x='74600' y='55813'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='8262' id='10' name='Stimulants map' pane-specification-id='0' param='[federated.0ormw5u0zbfc0a1fv16es1cgax3s].[avg:% Recovered:qk]' w='49200' x='800' y='12625'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+                <zone _.fcp.SetMembershipControl.false...type='color' _.fcp.SetMembershipControl.true...type-v2='color' h='8262' id='8' name='Bar plot of Stimulants in kg and kcal' pane-specification-id='0' param='[federated.0ormw5u0zbfc0a1fv16es1cgax3s].[:Measure Names]' w='49200' x='800' y='90738'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                  </zone-style>
+                </zone>
+              </zone>
+            </zone>
+          </zone>
+          <zone _.fcp.SetMembershipControl.false...type='text' _.fcp.SetMembershipControl.true...type-v2='text' h='11625' id='15' w='98400' x='800' y='1000'>
+            <formatted-text>
+              <run fontalignment='1' fontsize='15'>Is there a correlation between stimulant supply and COVID-19 recoveries in different countries? </run>
+              <run fontalignment='1'>
+Through various forms of data visualization,this dashboard aims to showcase stimulant supply percentages within different countries to see whether  there is a correlation between high recovery percentages and stimulant supply.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='700' minheight='700' sizing-mode='vscroll' />
+          <zones>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='2' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='1' param='vert' w='84000' x='8000' y='8000' />
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{3F0DEFBD-B329-43F9-BD20-3D5264BF762D}' />
+    </dashboard>
   </dashboards>
-  <windows source-height='134'>
+  <windows source-height='135'>
     <window class='worksheet' name='COVID-19 Deaths in Countries'>
       <cards>
         <edge name='left'>
@@ -1882,7 +1880,7 @@ Through various forms of data visualization,this dashboard aims to showcase stim
       </cards>
       <simple-id uuid='{2134DA51-7409-4963-B5CE-403CCE9A9572}' />
     </window>
-    <window class='dashboard' name='Izgi'>
+    <window class='dashboard' maximized='true' name='Izgi'>
       <viewpoints>
         <viewpoint name='%Food map_izgi'>
           <zoom type='entire-view' />
@@ -1972,7 +1970,7 @@ Through various forms of data visualization,this dashboard aims to showcase stim
       </cards>
       <simple-id uuid='{3CF0B060-E805-487F-A429-4DEE15A0E7AE}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard 2'>
+    <window class='dashboard' name='YuenYee'>
       <viewpoints>
         <viewpoint name='Bar plot of Stimulants in kg and kcal' />
         <viewpoint name='Scatter plot % Stimulants (kcal) vs % Recovered'>
@@ -1985,7 +1983,7 @@ Through various forms of data visualization,this dashboard aims to showcase stim
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='15' />
+      <active id='12' />
       <simple-id uuid='{23CC2D4F-867C-42C7-BFB0-B552F5BFC1E3}' />
     </window>
   </windows>
