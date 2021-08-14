@@ -1,6 +1,4 @@
-# Group 28 - {Investigating the effects of Diet on individuals with COVID-19}
-
-- Your title can change over time.
+# Group 28 - Investigating the effects of Diet on individuals with COVID-19
 
 ## Milestones
 
